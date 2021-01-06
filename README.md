@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *demoApp Tip Calculator*
 
 **TipCalc** is a tip calculator application for iOS.
 
 Submitted by: **Jonathan Ayoub**
 
-Time spent: **1-2** hours spent in total
+Time spent: **1** hour spent in total
 
 ## User Stories
 
@@ -32,13 +32,9 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021 Jonathan Ayoub
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
